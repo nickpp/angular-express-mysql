@@ -46,7 +46,7 @@ After the db is defined, please run the following -
 cd server
 npm install 
 npm run dev
-
+```
 now the server runs on http://localhost:3000
 
 ## 5. if you want to test just the api - please this address to your browswer
