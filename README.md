@@ -3,7 +3,7 @@
 angular user management, express as backend and mysql as db
 
 ### demo 
-http://116.203.25.121
+http://angularexpress.mailshogun.com/
 
 ## how to install 
 There are 2 main folders. Client and server. 
